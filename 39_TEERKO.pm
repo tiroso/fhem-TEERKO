@@ -4352,7 +4352,7 @@ sub TEERKO_GetState{
         fhem=set light1 on;sleep 3;set coffemaker on;set livingroomlight pct 50<br>
         <br>
         [command]<br>
-        in=wie.*wetter<br>
+        in=wie.*wetter<br> 
         out=Die Temperatur beträgt %weatherdevice%. Die Feuchtigkeit beträgt 
         %weatherdevice:humidity% Prozent.
         Das Wetter ist %weatherdevice:icon:rainy=regnerisch,cloudy=wolkig,stormy=So richtig mies%<br>
