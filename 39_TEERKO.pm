@@ -61,7 +61,7 @@ use Data::Dumper;
 use Storable qw(dclone);
 use Color;
 
-my $modulversion = "b1.2.9";
+my $modulversion = "1.0";
 
 my %TEERKO_brain = (
     "vocabulary" => [
