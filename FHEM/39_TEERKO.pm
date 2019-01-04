@@ -25,6 +25,9 @@
 ############################################################################
 #
 # Changelog:
+# 2019-01-04, betav1.2.10
+# summarized answer when more than x device attached
+#
 # 2018-01-15, betav1.2.9
 # fixed action prio checker when multi predicate_prefixes
 #
